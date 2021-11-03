@@ -5,3 +5,4 @@ While enabling bitlocker on a Windows volume, it is always a good practice to be
 
 This tool can help testing by generating random Bitlocker keys in Management solution scenarios wherein custom remote deployment of Bitlocker key is needed.
 
+The code is uploaded for both NodeJs and Java project.
